@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Banyan Labs Forever And Ever
         </a>
       </header>
     </div>
