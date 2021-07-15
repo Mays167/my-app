@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Mays167.github.io/my-app/static/css/main.a617e044.chunk.css",
+    "main.js": "/Mays167.github.io/my-app/static/js/main.218b5a21.chunk.js",
+    "main.js.map": "/Mays167.github.io/my-app/static/js/main.218b5a21.chunk.js.map",
+    "runtime-main.js": "/Mays167.github.io/my-app/static/js/runtime-main.d0d53f8d.js",
+    "runtime-main.js.map": "/Mays167.github.io/my-app/static/js/runtime-main.d0d53f8d.js.map",
+    "static/js/2.0776a14c.chunk.js": "/Mays167.github.io/my-app/static/js/2.0776a14c.chunk.js",
+    "static/js/2.0776a14c.chunk.js.map": "/Mays167.github.io/my-app/static/js/2.0776a14c.chunk.js.map",
+    "static/js/3.dd157172.chunk.js": "/Mays167.github.io/my-app/static/js/3.dd157172.chunk.js",
+    "static/js/3.dd157172.chunk.js.map": "/Mays167.github.io/my-app/static/js/3.dd157172.chunk.js.map",
+    "index.html": "/Mays167.github.io/my-app/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Mays167.github.io/my-app/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.0776a14c.chunk.js.LICENSE.txt": "/Mays167.github.io/my-app/static/js/2.0776a14c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Mays167.github.io/my-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0d53f8d.js",
+    "static/js/2.0776a14c.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.218b5a21.chunk.js"
+  ]
+}
